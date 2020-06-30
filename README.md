@@ -1,6 +1,6 @@
-![ic_launcher](/Users/hmm/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/c8f2d07827358c6dba91d956e818eb1c/Message/MessageTemp/35a8388ec8b02f69b88434f8ed6666d1/File/启动icons/android/mipmap-xhdpi/ic_launcher.png)
 
-####                                                                      																	名片扫描
+
+#                                                                      																	名片扫描v1.0
 
 ​	
 
