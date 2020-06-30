@@ -1,4 +1,4 @@
-# **基于vuecli3.0+cordova制作名片扫描**
+# **基于vuecli3.0+cordova制作名片扫描识别**
 
 ### **前端支持ios和安卓生成app**
 
