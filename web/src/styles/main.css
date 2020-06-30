@@ -1,0 +1,163 @@
+/*
+ * 主题样式
+ */
+
+
+/* 主视图区域 */
+
+.content {
+    margin-top: 46px;
+}
+
+
+/* 头部样式 */
+
+.van-nav-bar {
+    background-color: #f5f5f5;
+}
+
+.van-nav-bar__title {
+    color: #555;
+}
+
+.van-nav-bar .van-icon {
+    color: #555;
+    font-size: 18px;
+}
+
+.van-nav-bar__text {
+    color: #555;
+}
+
+.van-nav-bar__text:active {
+    background-color: initial;
+}
+
+
+/* 底部样式调整 */
+
+.van-tabbar {
+    box-shadow: 1px 0 6px rgba(0, 0, 0, 0.2);
+}
+
+.van-tabbar-item {
+    color: #7d7d7d;
+}
+
+.van-tabbar-item--active {
+    color: #5b73e7;
+}
+
+.van-tabbar-item {
+    position: relative;
+    color: #666666;
+}
+
+.van-tabbar-item.van-tabbar-item--active {
+    color: #5b73e7;
+}
+
+.van-tabbar-item__icon {
+    position: initial;
+}
+
+.editRealistic {
+    position: absolute;
+    top: -44%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 44px;
+    z-index: 2;
+    color: #5b73e7;
+}
+
+.editText {
+    margin-top: 18px;
+    display: block;
+}
+
+
+/* 其他颜色设置 */
+
+.van-radio__icon--checked .van-icon {
+    background-color: #3f5cea;
+    border-color: #3f5cea;
+}
+
+.van-checkbox__icon--checked .van-icon {
+    background-color: #3f5cea;
+    border-color: #3f5cea;
+}
+
+.van-search__action {
+    color: #ffffff;
+}
+
+.van-search__action:active {
+    background-color: initial;
+}
+
+.van-dialog__confirm,
+.van-dialog__confirm:active {
+    color: #3f5cea;
+}
+
+.dislog-popup {
+    width: 100vw;
+    height: 100vh;
+}
+
+.reset-popup {
+    top: 0;
+    left: 0;
+    transform: initial;
+}
+
+.el-pagination {
+    padding: 0;
+}
+
+.el-pagination.is-background .el-pager li:not(.disabled).active {
+    background: #3f5cea;
+}
+
+.el-pagination.is-background .btn-next,
+.el-pagination.is-background .btn-prev,
+.el-pagination.is-background .el-pager li {
+    background: none;
+}
+
+
+/* 为了壳子修改样式 */
+
+.van-nav-bar__right {
+    right: 50px;
+}
+
+.van-search__action {
+    padding-right: 50px;
+}
+
+
+/* table 样式调整 */
+
+.el-table th>.cell {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.el-table .cell {
+    padding-right: 5px;
+    line-height: 22px;
+}
+
+.el-table .cell,
+.el-table--border td:first-child .cell,
+.el-table--border th:first-child .cell {
+    padding-left: 5px;
+}
+
+.el-table td,
+.el-table th {
+    padding: 8px 0;
+}
